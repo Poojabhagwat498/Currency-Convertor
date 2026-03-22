@@ -86,8 +86,8 @@ Select source currency
 Select target currency
 Click Convert
 View the converted result instantly
-📚 Learning Outcomes
 
+📚 Learning Outcomes
 Through this project, you can learn:
 
 JavaScript DOM manipulation
@@ -95,14 +95,15 @@ Fetching data using APIs
 Handling asynchronous operations
 Building responsive UI
 Structuring frontend projects
+
 📈 Future Improvements
 Add more currencies
 Improve UI/UX design
 Add currency flags
 Add historical exchange rate charts
 Add dark mode
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome!
 
 Steps to Contribute:
@@ -115,4 +116,4 @@ Open a Pull Request
 
 Pooja Bhagwat
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Poojabhagwat498/Currency-Convertor.git
