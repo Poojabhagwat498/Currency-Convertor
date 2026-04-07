@@ -35,7 +35,7 @@ Currency converter apps typically rely on APIs to fetch live exchange rates and 
 - HTML  
 - CSS  
 - JavaScript  
-- Fetch API *(for currency data)*  
+- Fetch API
 
 ---
 
@@ -112,8 +112,8 @@ Create a new branch (git checkout -b feature-name)
 Commit your changes (git commit -m "Add feature")
 Push to the branch (git push origin feature-name)
 Open a Pull Request
-👩‍💻 Author
 
+👩‍💻 Author
 Pooja Bhagwat
 
 🔗 GitHub:https://github.com/Poojabhagwat498/Currency-Convertor.git
