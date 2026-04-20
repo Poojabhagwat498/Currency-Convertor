@@ -74,12 +74,15 @@ Currency-Convertor/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Poojabhagwat498/Currency-Convertor.git
+
 2️⃣ Navigate to Project Folder
 cd Currency-Convertor
+
 3️⃣ Run the Project
 Open index.html in your browser
 OR
 Use Live Server in VS Code
+
 ▶️ Usage
 Enter the amount
 Select source currency
@@ -88,6 +91,7 @@ Click Convert
 View the converted result instantly
 
 📚 Learning Outcomes
+
 Through this project, you can learn:
 
 JavaScript DOM manipulation
@@ -97,6 +101,7 @@ Building responsive UI
 Structuring frontend projects
 
 📈 Future Improvements
+
 Add more currencies
 Improve UI/UX design
 Add currency flags
